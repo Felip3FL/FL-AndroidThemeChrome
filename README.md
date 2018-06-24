@@ -1,4 +1,4 @@
-# FL-AndroidThemeChrome
+# Android Theme Chrome
 Google Chrome Theme 
 This theme is based on Gmail Android Theme
 
