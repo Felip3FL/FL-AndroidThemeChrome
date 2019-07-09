@@ -1,5 +1,5 @@
 # Android Theme Chrome
-Google Chrome Theme 
+Google Chrome Theme </br>
 This theme is based on Gmail Android Theme
 
 <img src="https://github.com/Felip3FL/FL-AndroidThemeChrome/blob/master/Material/Preview.gif?raw=true">
